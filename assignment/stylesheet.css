@@ -1,0 +1,24 @@
+header {
+    background-color: darkslategray;
+    border: 1px solid darkslategray;
+    text-align: center;
+    font-family: Arial;
+    color: lightcyan;
+    font-size: 24px;
+}
+
+main {
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    text-align: center;
+    font-family: Arial;
+    color: darkblue;
+    font-size: 20px;
+    padding: 1em;
+}
+
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
